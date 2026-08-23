@@ -1,0 +1,1278 @@
+{"city":"Philadelphia","no_of_bus":11070}
+{"city":"Tucson","no_of_bus":7268}
+{"city":"Tampa","no_of_bus":7262}
+{"city":"Indianapolis","no_of_bus":5878}
+{"city":"Nashville","no_of_bus":5529}
+{"city":"New Orleans","no_of_bus":4734}
+{"city":"Reno","no_of_bus":4469}
+{"city":"Edmonton","no_of_bus":3710}
+{"city":"Saint Louis","no_of_bus":3687}
+{"city":"Santa Barbara","no_of_bus":2913}
+{"city":"Boise","no_of_bus":2337}
+{"city":"Clearwater","no_of_bus":1756}
+{"city":"Metairie","no_of_bus":1331}
+{"city":"Saint Petersburg","no_of_bus":1277}
+{"city":"Sparks","no_of_bus":1272}
+{"city":"Franklin","no_of_bus":1138}
+{"city":"Wilmington","no_of_bus":1113}
+{"city":"St. Louis","no_of_bus":1110}
+{"city":"St. Petersburg","no_of_bus":942}
+{"city":"Meridian","no_of_bus":849}
+{"city":"Brandon","no_of_bus":828}
+{"city":"Largo","no_of_bus":818}
+{"city":"Carmel","no_of_bus":781}
+{"city":"Cherry Hill","no_of_bus":749}
+{"city":"West Chester","no_of_bus":674}
+{"city":"Brentwood","no_of_bus":640}
+{"city":"Goleta","no_of_bus":609}
+{"city":"Palm Harbor","no_of_bus":533}
+{"city":"Greenwood","no_of_bus":509}
+{"city":"Riverview","no_of_bus":480}
+{"city":"Lutz","no_of_bus":477}
+{"city":"Fishers","no_of_bus":461}
+{"city":"New Port Richey","no_of_bus":461}
+{"city":"Wesley Chapel","no_of_bus":443}
+{"city":"Doylestown","no_of_bus":441}
+{"city":"Kenner","no_of_bus":431}
+{"city":"King of Prussia","no_of_bus":421}
+{"city":"Pinellas Park","no_of_bus":415}
+{"city":"Dunedin","no_of_bus":387}
+{"city":"Hendersonville","no_of_bus":382}
+{"city":"Bensalem","no_of_bus":358}
+{"city":"St Petersburg","no_of_bus":339}
+{"city":"Exton","no_of_bus":338}
+{"city":"Marlton","no_of_bus":331}
+{"city":"Norristown","no_of_bus":330}
+{"city":"Spring Hill","no_of_bus":326}
+{"city":"St Louis","no_of_bus":313}
+{"city":"Tarpon Springs","no_of_bus":308}
+{"city":"Seminole","no_of_bus":302}
+{"city":"Lansdale","no_of_bus":300}
+{"city":"Springfield","no_of_bus":298}
+{"city":"Ardmore","no_of_bus":298}
+{"city":"Smyrna","no_of_bus":294}
+{"city":"Wayne","no_of_bus":291}
+{"city":"Phoenixville","no_of_bus":287}
+{"city":"Newark","no_of_bus":283}
+{"city":"Media","no_of_bus":282}
+{"city":"Mount Laurel","no_of_bus":275}
+{"city":"Langhorne","no_of_bus":264}
+{"city":"Avon","no_of_bus":263}
+{"city":"Saint Charles","no_of_bus":259}
+{"city":"Gretna","no_of_bus":257}
+{"city":"Newtown","no_of_bus":252}
+{"city":"Willow Grove","no_of_bus":251}
+{"city":"Pottstown","no_of_bus":250}
+{"city":"Havertown","no_of_bus":245}
+{"city":"Florissant","no_of_bus":244}
+{"city":"Trenton","no_of_bus":242}
+{"city":"Conshohocken","no_of_bus":241}
+{"city":"Oro Valley","no_of_bus":241}
+{"city":"Eagle","no_of_bus":240}
+{"city":"Oldsmar","no_of_bus":235}
+{"city":"Mount Juliet","no_of_bus":234}
+{"city":"Levittown","no_of_bus":230}
+{"city":"Sherwood Park","no_of_bus":230}
+{"city":"Fenton","no_of_bus":230}
+{"city":"Belleville","no_of_bus":229}
+{"city":"Malvern","no_of_bus":229}
+{"city":"Madison","no_of_bus":225}
+{"city":"Plainfield","no_of_bus":224}
+{"city":"North Wales","no_of_bus":222}
+{"city":"Valrico","no_of_bus":220}
+{"city":"Bryn Mawr","no_of_bus":220}
+{"city":"Edwardsville","no_of_bus":219}
+{"city":"Hermitage","no_of_bus":218}
+{"city":"Port Richey","no_of_bus":217}
+{"city":"Harvey","no_of_bus":217}
+{"city":"Warminster","no_of_bus":217}
+{"city":"Carpinteria","no_of_bus":217}
+{"city":"Plant City","no_of_bus":209}
+{"city":"Ballwin","no_of_bus":207}
+{"city":"New Hope","no_of_bus":200}
+{"city":"Collegeville","no_of_bus":199}
+{"city":"Downingtown","no_of_bus":195}
+{"city":"Fairview Heights","no_of_bus":192}
+{"city":"Creve Coeur","no_of_bus":188}
+{"city":"Kirkwood","no_of_bus":186}
+{"city":"Sewell","no_of_bus":185}
+{"city":"Zionsville","no_of_bus":185}
+{"city":"Antioch","no_of_bus":183}
+{"city":"Clayton","no_of_bus":181}
+{"city":"Arnold","no_of_bus":180}
+{"city":"Voorhees","no_of_bus":177}
+{"city":"Glen Mills","no_of_bus":176}
+{"city":"Jenkintown","no_of_bus":175}
+{"city":"Ambler","no_of_bus":174}
+{"city":"Maryland Heights","no_of_bus":172}
+{"city":"Hudson","no_of_bus":172}
+{"city":"Brownsburg","no_of_bus":168}
+{"city":"New Castle","no_of_bus":167}
+{"city":"Southampton","no_of_bus":166}
+{"city":"Warrington","no_of_bus":162}
+{"city":"Upper Darby","no_of_bus":159}
+{"city":"Goodlettsville","no_of_bus":159}
+{"city":"Plymouth Meeting","no_of_bus":154}
+{"city":"Medford","no_of_bus":149}
+{"city":"Kennett Square","no_of_bus":149}
+{"city":"Moorestown","no_of_bus":149}
+{"city":"Horsham","no_of_bus":148}
+{"city":"Clearwater Beach","no_of_bus":145}
+{"city":"Bala Cynwyd","no_of_bus":145}
+{"city":"Newtown Square","no_of_bus":144}
+{"city":"Hatboro","no_of_bus":143}
+{"city":"Royersford","no_of_bus":143}
+{"city":"Glenside","no_of_bus":143}
+{"city":"Broomall","no_of_bus":141}
+{"city":"Haddonfield","no_of_bus":140}
+{"city":"Garden City","no_of_bus":139}
+{"city":"Burlington","no_of_bus":138}
+{"city":"Abington","no_of_bus":137}
+{"city":"Harahan","no_of_bus":135}
+{"city":"Collingswood","no_of_bus":134}
+{"city":"Blue Bell","no_of_bus":132}
+{"city":"Huntingdon Valley","no_of_bus":132}
+{"city":"Yardley","no_of_bus":132}
+{"city":"Bridgeton","no_of_bus":132}
+{"city":"Madeira Beach","no_of_bus":128}
+{"city":"Woodbury","no_of_bus":126}
+{"city":"Sicklerville","no_of_bus":126}
+{"city":"Collinsville","no_of_bus":126}
+{"city":"Maple Shade","no_of_bus":125}
+{"city":"Paoli","no_of_bus":125}
+{"city":"Chesterfield","no_of_bus":124}
+{"city":"Maplewood","no_of_bus":124}
+{"city":"Des Peres","no_of_bus":124}
+{"city":"King Of Prussia","no_of_bus":123}
+{"city":"Marrero","no_of_bus":123}
+{"city":"Drexel Hill","no_of_bus":122}
+{"city":"O'Fallon","no_of_bus":122}
+{"city":"Pennsauken","no_of_bus":117}
+{"city":"St. Pete Beach","no_of_bus":116}
+{"city":"Gallatin","no_of_bus":115}
+{"city":"Glassboro","no_of_bus":115}
+{"city":"Fairless Hills","no_of_bus":114}
+{"city":"Tampa Bay","no_of_bus":112}
+{"city":"Temple Terrace","no_of_bus":112}
+{"city":"Alton","no_of_bus":112}
+{"city":"Manchester","no_of_bus":111}
+{"city":"Deptford","no_of_bus":109}
+{"city":"Blackwood","no_of_bus":106}
+{"city":"Odessa","no_of_bus":106}
+{"city":"Aston","no_of_bus":106}
+{"city":"Safety Harbor","no_of_bus":106}
+{"city":"Webster Groves","no_of_bus":103}
+{"city":"Turnersville","no_of_bus":103}
+{"city":"Bristol","no_of_bus":102}
+{"city":"Ruskin","no_of_bus":101}
+{"city":"Zephyrhills","no_of_bus":101}
+{"city":"Lambertville","no_of_bus":101}
+{"city":"Audubon","no_of_bus":100}
+{"city":"Gulfport","no_of_bus":98}
+{"city":"Ewing","no_of_bus":97}
+{"city":"Chalfont","no_of_bus":97}
+{"city":"Bordentown","no_of_bus":96}
+{"city":"Apollo Beach","no_of_bus":95}
+{"city":"Holiday","no_of_bus":94}
+{"city":"Cinnaminson","no_of_bus":93}
+{"city":"Chadds Ford","no_of_bus":93}
+{"city":"St. Charles","no_of_bus":92}
+{"city":"University City","no_of_bus":92}
+{"city":"Trinity","no_of_bus":87}
+{"city":"Berwyn","no_of_bus":87}
+{"city":"Narberth","no_of_bus":87}
+{"city":"Seffner","no_of_bus":87}
+{"city":"Elkins Park","no_of_bus":86}
+{"city":"Souderton","no_of_bus":84}
+{"city":"St Charles","no_of_bus":84}
+{"city":"Land O Lakes","no_of_bus":83}
+{"city":"Chalmette","no_of_bus":83}
+{"city":"Morrisville","no_of_bus":82}
+{"city":"Hatfield","no_of_bus":82}
+{"city":"Williamstown","no_of_bus":82}
+{"city":"Mount Holly","no_of_bus":82}
+{"city":"Montgomeryville","no_of_bus":81}
+{"city":"East Norriton","no_of_bus":81}
+{"city":"Land O' Lakes","no_of_bus":81}
+{"city":"Hazelwood","no_of_bus":80}
+{"city":"Delran","no_of_bus":79}
+{"city":"Clementon","no_of_bus":77}
+{"city":"Treasure Island","no_of_bus":77}
+{"city":"Marana","no_of_bus":76}
+{"city":"Nolensville","no_of_bus":75}
+{"city":"Richmond Heights","no_of_bus":75}
+{"city":"Perkasie","no_of_bus":74}
+{"city":"Montecito","no_of_bus":74}
+{"city":"Folsom","no_of_bus":73}
+{"city":"Hockessin","no_of_bus":72}
+{"city":"Feasterville Trevose","no_of_bus":72}
+{"city":"Berlin","no_of_bus":71}
+{"city":"Harleysville","no_of_bus":71}
+{"city":"Isla Vista","no_of_bus":69}
+{"city":"Indian Rocks Beach","no_of_bus":68}
+{"city":"St Pete Beach","no_of_bus":67}
+{"city":"West Berlin","no_of_bus":66}
+{"city":"Richboro","no_of_bus":66}
+{"city":"Camden","no_of_bus":66}
+{"city":"Mt. Juliet","no_of_bus":66}
+{"city":"Limerick","no_of_bus":66}
+{"city":"Feasterville","no_of_bus":66}
+{"city":"Wynnewood","no_of_bus":65}
+{"city":"Old Hickory","no_of_bus":65}
+{"city":"Quakertown","no_of_bus":65}
+{"city":"Valley Park","no_of_bus":65}
+{"city":"St Albert","no_of_bus":64}
+{"city":"La Vergne","no_of_bus":64}
+{"city":"Clifton Heights","no_of_bus":62}
+{"city":"Swedesboro","no_of_bus":61}
+{"city":"Chester Springs","no_of_bus":60}
+{"city":"Mooresville","no_of_bus":60}
+{"city":"Granite City","no_of_bus":60}
+{"city":"Voorhees Township","no_of_bus":60}
+{"city":"Jefferson","no_of_bus":60}
+{"city":"Glen Carbon","no_of_bus":59}
+{"city":"St. Albert","no_of_bus":59}
+{"city":"Feasterville-Trevose","no_of_bus":58}
+{"city":"Lansdowne","no_of_bus":57}
+{"city":"O Fallon","no_of_bus":57}
+{"city":"White House","no_of_bus":56}
+{"city":"Brookhaven","no_of_bus":55}
+{"city":"Haddon Township","no_of_bus":55}
+{"city":"Hamilton","no_of_bus":54}
+{"city":"Mullica Hill","no_of_bus":53}
+{"city":"Pitman","no_of_bus":52}
+{"city":"Green Valley","no_of_bus":52}
+{"city":"Sahuarita","no_of_bus":50}
+{"city":"Lumberton","no_of_bus":50}
+{"city":"Lithia","no_of_bus":50}
+{"city":"Lafayette Hill","no_of_bus":49}
+{"city":"Saint Ann","no_of_bus":49}
+{"city":"Runnemede","no_of_bus":49}
+{"city":"Skippack","no_of_bus":49}
+{"city":"Speedway","no_of_bus":49}
+{"city":"Wyncote","no_of_bus":48}
+{"city":"Terrytown","no_of_bus":48}
+{"city":"Flourtown","no_of_bus":46}
+{"city":"Ewing Township","no_of_bus":45}
+{"city":"Swansea","no_of_bus":45}
+{"city":"Westwego","no_of_bus":44}
+{"city":"South Pasadena","no_of_bus":44}
+{"city":"Columbia","no_of_bus":44}
+{"city":"Fort Washington","no_of_bus":44}
+{"city":"Willingboro","no_of_bus":44}
+{"city":"Claymont","no_of_bus":43}
+{"city":"Saint Pete Beach","no_of_bus":43}
+{"city":"Glenolden","no_of_bus":43}
+{"city":"Shiloh","no_of_bus":43}
+{"city":"Bellmawr","no_of_bus":42}
+{"city":"Overland","no_of_bus":42}
+{"city":"Devon","no_of_bus":42}
+{"city":"Gilbertsville","no_of_bus":42}
+{"city":"Colmar","no_of_bus":41}
+{"city":"Haddon Heights","no_of_bus":41}
+{"city":"Ridley Park","no_of_bus":40}
+{"city":"Vail","no_of_bus":40}
+{"city":"Belleair Bluffs","no_of_bus":39}
+{"city":"Haverford","no_of_bus":38}
+{"city":"Bridgeport","no_of_bus":38}
+{"city":"Gibsonton","no_of_bus":38}
+{"city":"Schwenksville","no_of_bus":38}
+{"city":"Belle Chasse","no_of_bus":38}
+{"city":"Lebanon","no_of_bus":38}
+{"city":"Trevose","no_of_bus":38}
+{"city":"Lahaska","no_of_bus":38}
+{"city":"Boothwyn","no_of_bus":37}
+{"city":"Stratford","no_of_bus":37}
+{"city":"Somerdale","no_of_bus":37}
+{"city":"High Ridge","no_of_bus":37}
+{"city":"Troy","no_of_bus":37}
+{"city":"Dresher","no_of_bus":37}
+{"city":"Whitestown","no_of_bus":36}
+{"city":"Oaks","no_of_bus":36}
+{"city":"Swarthmore","no_of_bus":36}
+{"city":"Frazer","no_of_bus":36}
+{"city":"Prospect Park","no_of_bus":35}
+{"city":"Hainesport","no_of_bus":35}
+{"city":"Merchantville","no_of_bus":35}
+{"city":"West Deptford","no_of_bus":35}
+{"city":"Camby","no_of_bus":34}
+{"city":"Holmes","no_of_bus":34}
+{"city":"Lindenwold","no_of_bus":34}
+{"city":"Pennsville","no_of_bus":34}
+{"city":"Sun City Center","no_of_bus":34}
+{"city":"Thorndale","no_of_bus":34}
+{"city":"Spring City","no_of_bus":33}
+{"city":"Essington","no_of_bus":33}
+{"city":"Wood River","no_of_bus":33}
+{"city":"Gloucester City","no_of_bus":32}
+{"city":"Town and Country","no_of_bus":32}
+{"city":"Affton","no_of_bus":32}
+{"city":"Beech Grove","no_of_bus":32}
+{"city":"Ashland City","no_of_bus":31}
+{"city":"River Ridge","no_of_bus":31}
+{"city":"Sellersville","no_of_bus":31}
+{"city":"Jamison","no_of_bus":31}
+{"city":"Maryville","no_of_bus":31}
+{"city":"Villanova","no_of_bus":31}
+{"city":"Croydon","no_of_bus":31}
+{"city":"Oaklyn","no_of_bus":31}
+{"city":"Summerland","no_of_bus":31}
+{"city":"Olivette","no_of_bus":30}
+{"city":"Avondale","no_of_bus":30}
+{"city":"Mt Juliet","no_of_bus":30}
+{"city":"Imperial","no_of_bus":30}
+{"city":"Pleasant View","no_of_bus":29}
+{"city":"Westmont","no_of_bus":29}
+{"city":"Palmyra","no_of_bus":29}
+{"city":"Boyertown","no_of_bus":29}
+{"city":"Evesham Township","no_of_bus":29}
+{"city":"Deptford Township","no_of_bus":29}
+{"city":"Kenneth City","no_of_bus":29}
+{"city":"Spring House","no_of_bus":29}
+{"city":"Pennsauken Township","no_of_bus":29}
+{"city":"Eagleville","no_of_bus":28}
+{"city":"Collingdale","no_of_bus":28}
+{"city":"Waterloo","no_of_bus":28}
+{"city":"Mantua","no_of_bus":28}
+{"city":"Barrington","no_of_bus":27}
+{"city":"Mt. Laurel","no_of_bus":27}
+{"city":"Magnolia","no_of_bus":27}
+{"city":"Trappe","no_of_bus":27}
+{"city":"Morton","no_of_bus":26}
+{"city":"Columbus","no_of_bus":26}
+{"city":"Folcroft","no_of_bus":26}
+{"city":"Westville","no_of_bus":26}
+{"city":"Ferguson","no_of_bus":25}
+{"city":"Telford","no_of_bus":25}
+{"city":"Sun Valley","no_of_bus":25}
+{"city":"Crestwood","no_of_bus":25}
+{"city":"Sunset Hills","no_of_bus":25}
+{"city":"Chester","no_of_bus":25}
+{"city":"Cheltenham","no_of_bus":25}
+{"city":"Woodlyn","no_of_bus":24}
+{"city":"Dover","no_of_bus":24}
+{"city":"Hamilton Township","no_of_bus":24}
+{"city":"Westampton","no_of_bus":23}
+{"city":"McCordsville","no_of_bus":23}
+{"city":"Maple Glen","no_of_bus":23}
+{"city":"Ladue","no_of_bus":23}
+{"city":"Radnor","no_of_bus":23}
+{"city":"Holland","no_of_bus":23}
+{"city":"Virginia City","no_of_bus":23}
+{"city":"Atco","no_of_bus":22}
+{"city":"Penndel","no_of_bus":22}
+{"city":"Saint Albert","no_of_bus":22}
+{"city":"Rock Hill","no_of_bus":22}
+{"city":"Oreland","no_of_bus":22}
+{"city":"Godfrey","no_of_bus":22}
+{"city":"Joelton","no_of_bus":21}
+{"city":"Hammonton","no_of_bus":21}
+{"city":"Brooklawn","no_of_bus":21}
+{"city":"Arabi","no_of_bus":21}
+{"city":"Buckingham","no_of_bus":21}
+{"city":"Noblesville","no_of_bus":21}
+{"city":"Caseyville","no_of_bus":21}
+{"city":"Mount Ephraim","no_of_bus":21}
+{"city":"Tierra Verde","no_of_bus":21}
+{"city":"Dublin","no_of_bus":20}
+{"city":"Redington Shores","no_of_bus":20}
+{"city":"Coatesville","no_of_bus":20}
+{"city":"Woodbury Heights","no_of_bus":20}
+{"city":"Bellevue","no_of_bus":20}
+{"city":"North Redington Beach","no_of_bus":19}
+{"city":"Wimauma","no_of_bus":19}
+{"city":"Wyndmoor","no_of_bus":19}
+{"city":"Marcus Hook","no_of_bus":18}
+{"city":"Maple Shade Township","no_of_bus":18}
+{"city":"Garnet Valley","no_of_bus":18}
+{"city":"Millstadt","no_of_bus":18}
+{"city":"Indian Shores","no_of_bus":18}
+{"city":"Earth City","no_of_bus":18}
+{"city":"Spanish Springs","no_of_bus":18}
+{"city":"Lawrence","no_of_bus":18}
+{"city":"Pennsburg","no_of_bus":17}
+{"city":"Thonotosassa","no_of_bus":17}
+{"city":"Pipersville","no_of_bus":17}
+{"city":"Darby","no_of_bus":17}
+{"city":"Woodstown","no_of_bus":17}
+{"city":"Laurel Springs","no_of_bus":17}
+{"city":"Washington Crossing","no_of_bus":17}
+{"city":"Franklinville","no_of_bus":17}
+{"city":"Elmwood","no_of_bus":17}
+{"city":"Evesham","no_of_bus":16}
+{"city":"Greenbrier","no_of_bus":16}
+{"city":"Cahokia","no_of_bus":16}
+{"city":"Tuscon","no_of_bus":16}
+{"city":"Verdi","no_of_bus":16}
+{"city":"Sharon Hill","no_of_bus":16}
+{"city":"Mascoutah","no_of_bus":15}
+{"city":"Shrewsbury","no_of_bus":15}
+{"city":"Frontenac","no_of_bus":15}
+{"city":"Glendora","no_of_bus":15}
+{"city":"Riverton","no_of_bus":15}
+{"city":"Riverside","no_of_bus":15}
+{"city":"Ivyland","no_of_bus":15}
+{"city":"Palmetto","no_of_bus":14}
+{"city":"Greenville","no_of_bus":14}
+{"city":"Gloucester Township","no_of_bus":14}
+{"city":"Merion Station","no_of_bus":14}
+{"city":"Paulsboro","no_of_bus":14}
+{"city":"Roslyn","no_of_bus":14}
+{"city":"Westchase","no_of_bus":14}
+{"city":"Whiteland","no_of_bus":14}
+{"city":"Beverly","no_of_bus":13}
+{"city":"Christiana","no_of_bus":13}
+{"city":"Furlong","no_of_bus":13}
+{"city":"TAMPA","no_of_bus":13}
+{"city":"East Alton","no_of_bus":13}
+{"city":"Rosemont","no_of_bus":13}
+{"city":"Salem","no_of_bus":13}
+{"city":"Yeadon","no_of_bus":13}
+{"city":"Rockledge","no_of_bus":13}
+{"city":"Lawnside","no_of_bus":13}
+{"city":"Pontoon Beach","no_of_bus":12}
+{"city":"New Palestine","no_of_bus":12}
+{"city":"Dade City","no_of_bus":12}
+{"city":"Washington Township","no_of_bus":12}
+{"city":"New Britain","no_of_bus":12}
+{"city":"Kingston Springs","no_of_bus":12}
+{"city":"Gibbsboro","no_of_bus":12}
+{"city":"Wenonah","no_of_bus":12}
+{"city":"Penns Grove","no_of_bus":12}
+{"city":"Catalina","no_of_bus":12}
+{"city":"Eddystone","no_of_bus":12}
+{"city":"Tabernacle","no_of_bus":11}
+{"city":"Shamong","no_of_bus":11}
+{"city":"East Saint Louis","no_of_bus":11}
+{"city":"San Antonio","no_of_bus":11}
+{"city":"Malaga","no_of_bus":11}
+{"city":"Saint Rose","no_of_bus":11}
+{"city":"Newport","no_of_bus":11}
+{"city":"Kulpsville","no_of_bus":11}
+{"city":"Stowe","no_of_bus":11}
+{"city":"Glenmoore","no_of_bus":11}
+{"city":"Pine Hill","no_of_bus":11}
+{"city":"Hernando Beach","no_of_bus":11}
+{"city":"Elmer","no_of_bus":11}
+{"city":"Upper Chichester","no_of_bus":10}
+{"city":"O'fallon","no_of_bus":10}
+{"city":"Mt Laurel","no_of_bus":10}
+{"city":"Wallingford","no_of_bus":10}
+{"city":"Logan Township","no_of_bus":10}
+{"city":"Gibbstown","no_of_bus":10}
+{"city":"Oakville","no_of_bus":10}
+{"city":"Manayunk","no_of_bus":10}
+{"city":"Danville","no_of_bus":10}
+{"city":"Thorofare","no_of_bus":10}
+{"city":"Lawrenceville","no_of_bus":9}
+{"city":"St.Petersburg","no_of_bus":9}
+{"city":"St.Louis","no_of_bus":9}
+{"city":"Sappington","no_of_bus":8}
+{"city":"Bethalto","no_of_bus":8}
+{"city":"Plumsteadville","no_of_bus":8}
+{"city":"Perkiomenville","no_of_bus":8}
+{"city":"Monroe Township","no_of_bus":8}
+{"city":"Carneys Point","no_of_bus":8}
+{"city":"Kuna","no_of_bus":8}
+{"city":"Berkeley","no_of_bus":8}
+{"city":"Greenfield","no_of_bus":8}
+{"city":"Pilesgrove","no_of_bus":8}
+{"city":"Talleyville","no_of_bus":8}
+{"city":"Castleton","no_of_bus":8}
+{"city":"Edgewater Park","no_of_bus":8}
+{"city":"Boise City","no_of_bus":8}
+{"city":"Eastampton","no_of_bus":8}
+{"city":"Norwood","no_of_bus":8}
+{"city":"Town & Country","no_of_bus":8}
+{"city":"Trooper","no_of_bus":8}
+{"city":"Erdenheim","no_of_bus":7}
+{"city":"Beaumont","no_of_bus":7}
+{"city":"Truckee","no_of_bus":7}
+{"city":"Florence","no_of_bus":7}
+{"city":"West Conshohocken","no_of_bus":7}
+{"city":"St Louis Downtown","no_of_bus":7}
+{"city":"Silverdale","no_of_bus":7}
+{"city":"Pemberton","no_of_bus":7}
+{"city":"Lawrence Township","no_of_bus":7}
+{"city":"Breckenridge Hills","no_of_bus":7}
+{"city":"Green Lane","no_of_bus":7}
+{"city":"Scott Air Force Base","no_of_bus":7}
+{"city":"Jeffersonville","no_of_bus":7}
+{"city":"Secane","no_of_bus":7}
+{"city":"Pennington","no_of_bus":7}
+{"city":"Clarksboro","no_of_bus":7}
+{"city":"Woolwich Township","no_of_bus":7}
+{"city":"Vincentown","no_of_bus":7}
+{"city":"Aldan","no_of_bus":7}
+{"city":"Whites Creek","no_of_bus":7}
+{"city":"St. Ann","no_of_bus":7}
+{"city":"Kimberton","no_of_bus":6}
+{"city":"Treasure Is","no_of_bus":6}
+{"city":"Kimmswick","no_of_bus":6}
+{"city":"Jennings","no_of_bus":6}
+{"city":"New Whiteland","no_of_bus":6}
+{"city":"Mount Laurel Township","no_of_bus":6}
+{"city":"Toughkenamon","no_of_bus":6}
+{"city":"Lester","no_of_bus":6}
+{"city":"Line Lexington","no_of_bus":6}
+{"city":"Philadephia","no_of_bus":6}
+{"city":"Waterford Works","no_of_bus":6}
+{"city":"Medford Lakes","no_of_bus":6}
+{"city":"Primos","no_of_bus":6}
+{"city":"Roebling","no_of_bus":6}
+{"city":"Gladwyne","no_of_bus":6}
+{"city":"Town And Country","no_of_bus":6}
+{"city":"Worcester","no_of_bus":6}
+{"city":"Winslow Township","no_of_bus":6}
+{"city":"Meraux","no_of_bus":6}
+{"city":"Sauget","no_of_bus":6}
+{"city":"Cedars","no_of_bus":6}
+{"city":"Mount Lemmon","no_of_bus":5}
+{"city":"Hulmeville","no_of_bus":5}
+{"city":"Mansfield","no_of_bus":5}
+{"city":"Southport","no_of_bus":5}
+{"city":"Warson Woods","no_of_bus":5}
+{"city":"Citrus Park","no_of_bus":5}
+{"city":"Freeburg","no_of_bus":5}
+{"city":"Harrison Township","no_of_bus":5}
+{"city":"Violet","no_of_bus":5}
+{"city":"Bucks","no_of_bus":5}
+{"city":"Berry Hill","no_of_bus":5}
+{"city":"Luling","no_of_bus":5}
+{"city":"Burlington Township","no_of_bus":5}
+{"city":"Zieglerville","no_of_bus":5}
+{"city":"NASHVILLE","no_of_bus":5}
+{"city":"National Park","no_of_bus":5}
+{"city":"Carrollwood","no_of_bus":5}
+{"city":"St. Davids","no_of_bus":5}
+{"city":"Mantua Township","no_of_bus":5}
+{"city":"Belleair","no_of_bus":5}
+{"city":"Chesterbrook","no_of_bus":5}
+{"city":"Crum Lynne","no_of_bus":5}
+{"city":"Mt Holly","no_of_bus":5}
+{"city":"Clermont","no_of_bus":5}
+{"city":"Smithton","no_of_bus":5}
+{"city":"St Ann","no_of_bus":5}
+{"city":"Belle Meade","no_of_bus":5}
+{"city":"Newfield","no_of_bus":5}
+{"city":"Titusville","no_of_bus":5}
+{"city":"Holicong","no_of_bus":5}
+{"city":"PHILADELPHIA","no_of_bus":4}
+{"city":"Meadowbrook","no_of_bus":4}
+{"city":"Strafford","no_of_bus":4}
+{"city":"Town 'n' Country","no_of_bus":4}
+{"city":"Scott AFB","no_of_bus":4}
+{"city":"Bear","no_of_bus":4}
+{"city":"Churchville","no_of_bus":4}
+{"city":"Santa Barbara ","no_of_bus":4}
+{"city":"Saint Davids","no_of_bus":4}
+{"city":"Mendenhall","no_of_bus":4}
+{"city":"Penn Valley","no_of_bus":4}
+{"city":"Linwood","no_of_bus":4}
+{"city":"Ozona","no_of_bus":4}
+{"city":"Monroeville","no_of_bus":4}
+{"city":"Lederach","no_of_bus":4}
+{"city":"Concordville","no_of_bus":4}
+{"city":"Erial","no_of_bus":4}
+{"city":"Skippack Village","no_of_bus":4}
+{"city":"Fairmont City","no_of_bus":4}
+{"city":"Bryn Athyn","no_of_bus":4}
+{"city":"Bridge City","no_of_bus":4}
+{"city":"Elverson","no_of_bus":4}
+{"city":"Mickleton","no_of_bus":4}
+{"city":"TUCSON","no_of_bus":4}
+{"city":"East St. Louis","no_of_bus":4}
+{"city":"Green Park","no_of_bus":4}
+{"city":"East Lansdowne","no_of_bus":4}
+{"city":"Red Hill","no_of_bus":4}
+{"city":"Milmont Park","no_of_bus":4}
+{"city":"Mt. Ephraim","no_of_bus":4}
+{"city":"Saint John","no_of_bus":4}
+{"city":"tucson","no_of_bus":4}
+{"city":"Cedar Brook","no_of_bus":4}
+{"city":"Donelson","no_of_bus":4}
+{"city":"Mehlville","no_of_bus":4}
+{"city":"Redingtn Shor","no_of_bus":4}
+{"city":"Washington Park","no_of_bus":4}
+{"city":"Mccordsville","no_of_bus":4}
+{"city":"Land O'Lakes","no_of_bus":4}
+{"city":"Fountainville","no_of_bus":4}
+{"city":"Fairview","no_of_bus":4}
+{"city":"Chesilhurst","no_of_bus":4}
+{"city":"Elsmere","no_of_bus":4}
+{"city":"Masaryktown","no_of_bus":3}
+{"city":"Bayonet Point","no_of_bus":3}
+{"city":"lutz","no_of_bus":3}
+{"city":"Florence Township","no_of_bus":3}
+{"city":"Pinellas park","no_of_bus":3}
+{"city":"Ybor City","no_of_bus":3}
+{"city":"Jobstown","no_of_bus":3}
+{"city":"Mont Clare","no_of_bus":3}
+{"city":"Sun City","no_of_bus":3}
+{"city":"Twin Oaks","no_of_bus":3}
+{"city":"Hilltown","no_of_bus":3}
+{"city":"St. Rose","no_of_bus":3}
+{"city":"West Point","no_of_bus":3}
+{"city":"St. Peters","no_of_bus":3}
+{"city":"Indianpolis","no_of_bus":3}
+{"city":"Nashville ","no_of_bus":3}
+{"city":"Glendale","no_of_bus":3}
+{"city":"Washoe Valley","no_of_bus":3}
+{"city":"Metarie","no_of_bus":3}
+{"city":"Linfield","no_of_bus":3}
+{"city":"West Norriton","no_of_bus":3}
+{"city":"Fairview Village","no_of_bus":3}
+{"city":"South Tucson","no_of_bus":3}
+{"city":"Warrington Township","no_of_bus":3}
+{"city":"Phila","no_of_bus":3}
+{"city":"Cumberland","no_of_bus":3}
+{"city":"Casas Adobes","no_of_bus":3}
+{"city":"North Redington Bch","no_of_bus":3}
+{"city":"Bargersville","no_of_bus":3}
+{"city":"Upland","no_of_bus":3}
+{"city":"Unionville","no_of_bus":3}
+{"city":"NEW ORLEANS","no_of_bus":3}
+{"city":"Southampton Township","no_of_bus":3}
+{"city":"Valley Forge","no_of_bus":3}
+{"city":"West Edmonton","no_of_bus":3}
+{"city":"PHILA","no_of_bus":3}
+{"city":"Oaklandon","no_of_bus":3}
+{"city":"Chestnut Hill","no_of_bus":3}
+{"city":"Petersburg","no_of_bus":3}
+{"city":"Lionville","no_of_bus":3}
+{"city":"West Trenton","no_of_bus":3}
+{"city":"Parker Ford","no_of_bus":3}
+{"city":"East Nashville","no_of_bus":3}
+{"city":"Montchanin","no_of_bus":3}
+{"city":"Melrose Park","no_of_bus":3}
+{"city":"Pittsgrove","no_of_bus":3}
+{"city":"Marshallton","no_of_bus":3}
+{"city":"Bensalem Township","no_of_bus":3}
+{"city":"Indianapolis ","no_of_bus":3}
+{"city":"Brooklyn","no_of_bus":3}
+{"city":"Mt.Laurel","no_of_bus":3}
+{"city":"Normandy","no_of_bus":3}
+{"city":"Eastampton Township","no_of_bus":3}
+{"city":"Sumneytown","no_of_bus":3}
+{"city":"Marlborough","no_of_bus":3}
+{"city":"Thornton","no_of_bus":3}
+{"city":"Pegram","no_of_bus":3}
+{"city":"philadelphia","no_of_bus":3}
+{"city":"Lower Gwynedd","no_of_bus":3}
+{"city":"Lima","no_of_bus":3}
+{"city":"Southeast Edmonton","no_of_bus":3}
+{"city":"Enoch","no_of_bus":3}
+{"city":"Nampa","no_of_bus":3}
+{"city":"Greater Northdale","no_of_bus":2}
+{"city":"Pinellas","no_of_bus":2}
+{"city":"Wrightstown","no_of_bus":2}
+{"city":"Montgomery Township","no_of_bus":2}
+{"city":"Gwynedd","no_of_bus":2}
+{"city":"Saint Peters","no_of_bus":2}
+{"city":"Redington Beach","no_of_bus":2}
+{"city":"Belleair Beach","no_of_bus":2}
+{"city":"Hillsborough County","no_of_bus":2}
+{"city":"Nashville-Davidson metropolitan government (balance)","no_of_bus":2}
+{"city":"Abington Township","no_of_bus":2}
+{"city":"Murfreesboro","no_of_bus":2}
+{"city":"Reno ","no_of_bus":2}
+{"city":"Berlin Township","no_of_bus":2}
+{"city":"Mercerville","no_of_bus":2}
+{"city":"Belle Chase","no_of_bus":2}
+{"city":"St Louis County","no_of_bus":2}
+{"city":"Yorklyn","no_of_bus":2}
+{"city":"LARGO","no_of_bus":2}
+{"city":"Lower Gwynedd Township","no_of_bus":2}
+{"city":"Richwood","no_of_bus":2}
+{"city":"Creve Couer","no_of_bus":2}
+{"city":"Centreville","no_of_bus":2}
+{"city":"Land o lakes","no_of_bus":2}
+{"city":"Saint Petersburg Beach","no_of_bus":2}
+{"city":"tampa","no_of_bus":2}
+{"city":"Arrington","no_of_bus":2}
+{"city":"New orleans","no_of_bus":2}
+{"city":"Tullytown","no_of_bus":2}
+{"city":"Franconia","no_of_bus":2}
+{"city":"Pasco","no_of_bus":2}
+{"city":"Pennsylvania","no_of_bus":2}
+{"city":"Tucson ","no_of_bus":2}
+{"city":"Alloway","no_of_bus":2}
+{"city":"Cane Ridge","no_of_bus":2}
+{"city":"Lemay","no_of_bus":2}
+{"city":"Brooksville","no_of_bus":2}
+{"city":"clearwater","no_of_bus":2}
+{"city":"Balm","no_of_bus":2}
+{"city":"Sanatoga","no_of_bus":2}
+{"city":"Pike Creek","no_of_bus":2}
+{"city":"INDIANAPOLIS","no_of_bus":2}
+{"city":"reno","no_of_bus":2}
+{"city":"Tucson, Arizona","no_of_bus":2}
+{"city":"St  Louis","no_of_bus":2}
+{"city":"Pennsville Township","no_of_bus":2}
+{"city":"Carversville","no_of_bus":2}
+{"city":"St. Loius","no_of_bus":2}
+{"city":"RIVERVIEW","no_of_bus":2}
+{"city":"Meridan","no_of_bus":2}
+{"city":"Winchester","no_of_bus":2}
+{"city":"Birchrunville","no_of_bus":2}
+{"city":"Sassamansville","no_of_bus":2}
+{"city":"Bellefonte","no_of_bus":2}
+{"city":"Bucks County","no_of_bus":2}
+{"city":"Palm harbor","no_of_bus":2}
+{"city":"Fairview Hts.","no_of_bus":2}
+{"city":"boise","no_of_bus":2}
+{"city":"Corona de Tucson","no_of_bus":2}
+{"city":"Bosie","no_of_bus":2}
+{"city":"Carson City","no_of_bus":2}
+{"city":"Pasadena","no_of_bus":2}
+{"city":"Tinicum Township","no_of_bus":2}
+{"city":"Fairview Hts","no_of_bus":2}
+{"city":"new orleans","no_of_bus":2}
+{"city":"Feasterville-trevose","no_of_bus":2}
+{"city":"EdMonton","no_of_bus":2}
+{"city":"South County","no_of_bus":2}
+{"city":"Parkside","no_of_bus":2}
+{"city":"Rillito","no_of_bus":2}
+{"city":"Haddon","no_of_bus":2}
+{"city":"Ridley","no_of_bus":2}
+{"city":"Mount Royal","no_of_bus":2}
+{"city":"Roxborough","no_of_bus":2}
+{"city":"Saint Louis,","no_of_bus":2}
+{"city":"South Tampa","no_of_bus":2}
+{"city":"Zieglersville","no_of_bus":2}
+{"city":"Chichester","no_of_bus":2}
+{"city":"Delanco","no_of_bus":2}
+{"city":"Wilmington ","no_of_bus":2}
+{"city":"Martinsville","no_of_bus":2}
+{"city":"Upper Pittsgrove","no_of_bus":2}
+{"city":"Saint Bernard","no_of_bus":2}
+{"city":"Tampa Florida","no_of_bus":2}
+{"city":"Andalusia","no_of_bus":2}
+{"city":"Mt Laurel Township","no_of_bus":2}
+{"city":"Pineville","no_of_bus":2}
+{"city":"Kenneth","no_of_bus":2}
+{"city":"LANSDALE","no_of_bus":2}
+{"city":"Mechanicsville","no_of_bus":2}
+{"city":"Black Jack","no_of_bus":2}
+{"city":"New Washoe City","no_of_bus":2}
+{"city":"Town N Country","no_of_bus":2}
+{"city":"Chester Heights","no_of_bus":2}
+{"city":"Lower Southampton Township","no_of_bus":2}
+{"city":"Lutz fl","no_of_bus":1}
+{"city":"Wanamaker","no_of_bus":1}
+{"city":"Phonixville","no_of_bus":1}
+{"city":"COLMAR","no_of_bus":1}
+{"city":"Chester Township","no_of_bus":1}
+{"city":"meridian","no_of_bus":1}
+{"city":"Gentilly","no_of_bus":1}
+{"city":"Nevada","no_of_bus":1}
+{"city":"Hamiltion","no_of_bus":1}
+{"city":"Nixa","no_of_bus":1}
+{"city":"Fortville","no_of_bus":1}
+{"city":"Cortaro","no_of_bus":1}
+{"city":"pennsauken","no_of_bus":1}
+{"city":"Gardenville","no_of_bus":1}
+{"city":"FOLSOM","no_of_bus":1}
+{"city":"Safety  Harbor","no_of_bus":1}
+{"city":"Pleasant Township","no_of_bus":1}
+{"city":"Mt. Holly","no_of_bus":1}
+{"city":"Newtown square","no_of_bus":1}
+{"city":"Merion Park","no_of_bus":1}
+{"city":"South Cinnaminson","no_of_bus":1}
+{"city":"St.Rose","no_of_bus":1}
+{"city":"NEW PORT RICHEY","no_of_bus":1}
+{"city":"Webster Grvs","no_of_bus":1}
+{"city":"NW Edmonton","no_of_bus":1}
+{"city":"Edmundson","no_of_bus":1}
+{"city":"Flanders","no_of_bus":1}
+{"city":"Belmont Hills","no_of_bus":1}
+{"city":"New castle","no_of_bus":1}
+{"city":"phoenixville","no_of_bus":1}
+{"city":"Arizona","no_of_bus":1}
+{"city":"Primos-Secane","no_of_bus":1}
+{"city":"Boone","no_of_bus":1}
+{"city":"Meterie","no_of_bus":1}
+{"city":"Dupo","no_of_bus":1}
+{"city":"East Lake","no_of_bus":1}
+{"city":"Glenn Mills","no_of_bus":1}
+{"city":"New Prt Rchy","no_of_bus":1}
+{"city":"Sparks,","no_of_bus":1}
+{"city":"Terra Ceia","no_of_bus":1}
+{"city":"Bel Ridge","no_of_bus":1}
+{"city":"spring city","no_of_bus":1}
+{"city":"Creamery","no_of_bus":1}
+{"city":"Delran Township","no_of_bus":1}
+{"city":"Clarksville","no_of_bus":1}
+{"city":"Montgomery","no_of_bus":1}
+{"city":"Haverton","no_of_bus":1}
+{"city":"Sullivan","no_of_bus":1}
+{"city":"St Boise","no_of_bus":1}
+{"city":"Blooming Glen","no_of_bus":1}
+{"city":"Merion","no_of_bus":1}
+{"city":"Concord Village","no_of_bus":1}
+{"city":"goodlettsville","no_of_bus":1}
+{"city":"INpolis","no_of_bus":1}
+{"city":"Land O'lakes","no_of_bus":1}
+{"city":"Carpinteria ","no_of_bus":1}
+{"city":"Rutledge","no_of_bus":1}
+{"city":"London Grove","no_of_bus":1}
+{"city":"Tampa,","no_of_bus":1}
+{"city":"AVON","no_of_bus":1}
+{"city":"Peerless Park","no_of_bus":1}
+{"city":"langhorne","no_of_bus":1}
+{"city":"Wesley chapel","no_of_bus":1}
+{"city":"Trainer","no_of_bus":1}
+{"city":"Barnhart","no_of_bus":1}
+{"city":"New Orlaens","no_of_bus":1}
+{"city":"HUdson","no_of_bus":1}
+{"city":"Santa Rita","no_of_bus":1}
+{"city":"Sparks ","no_of_bus":1}
+{"city":"N Redington Bch","no_of_bus":1}
+{"city":"Conshohoeken","no_of_bus":1}
+{"city":"River View","no_of_bus":1}
+{"city":"St Pete beach","no_of_bus":1}
+{"city":"Boise ","no_of_bus":1}
+{"city":"TARPON SPRINGS","no_of_bus":1}
+{"city":"Drexel Heights","no_of_bus":1}
+{"city":"Dunedin ","no_of_bus":1}
+{"city":"Knoxville","no_of_bus":1}
+{"city":"Pottsgrove","no_of_bus":1}
+{"city":"San Anselmo","no_of_bus":1}
+{"city":"St Pete","no_of_bus":1}
+{"city":"NORRISTOWN","no_of_bus":1}
+{"city":"Covington","no_of_bus":1}
+{"city":"CREVE COEUR","no_of_bus":1}
+{"city":"Woodson Terrace","no_of_bus":1}
+{"city":"East Tampa","no_of_bus":1}
+{"city":"Philadelphila ","no_of_bus":1}
+{"city":"Saint Petersburg,","no_of_bus":1}
+{"city":"West Mount Holly","no_of_bus":1}
+{"city":"NEW PRT RCHY","no_of_bus":1}
+{"city":"Tren","no_of_bus":1}
+{"city":"Nashville,","no_of_bus":1}
+{"city":"Meridian ","no_of_bus":1}
+{"city":"Mt Laurel Twp, NJ","no_of_bus":1}
+{"city":"Kings Beach","no_of_bus":1}
+{"city":"West Alton","no_of_bus":1}
+{"city":"Edmonton City Centre","no_of_bus":1}
+{"city":"St. Leo","no_of_bus":1}
+{"city":"Philadelphia ","no_of_bus":1}
+{"city":"East Boise","no_of_bus":1}
+{"city":"Hurffville","no_of_bus":1}
+{"city":"Charles","no_of_bus":1}
+{"city":"New Tampa","no_of_bus":1}
+{"city":"Newtown Sq","no_of_bus":1}
+{"city":"Macdill Afb","no_of_bus":1}
+{"city":"Overbrook","no_of_bus":1}
+{"city":"Kirklyn","no_of_bus":1}
+{"city":"Clearwater/ Countryside","no_of_bus":1}
+{"city":"Tortola","no_of_bus":1}
+{"city":"Redington Shore","no_of_bus":1}
+{"city":"Johnson","no_of_bus":1}
+{"city":"spring hill","no_of_bus":1}
+{"city":"Pittsgrove Township","no_of_bus":1}
+{"city":"RENO","no_of_bus":1}
+{"city":"Ventura","no_of_bus":1}
+{"city":"Ellisville","no_of_bus":1}
+{"city":"Westtown","no_of_bus":1}
+{"city":"Spruce Grove","no_of_bus":1}
+{"city":"Westampton Township","no_of_bus":1}
+{"city":"Upper Darby PA","no_of_bus":1}
+{"city":"Holland Southampton","no_of_bus":1}
+{"city":"East Norristown","no_of_bus":1}
+{"city":"Lemay Ferry","no_of_bus":1}
+{"city":"New Jersey","no_of_bus":1}
+{"city":"Bywater","no_of_bus":1}
+{"city":"Tinicum","no_of_bus":1}
+{"city":"Town & County","no_of_bus":1}
+{"city":"Twn N Cntry","no_of_bus":1}
+{"city":"sparks","no_of_bus":1}
+{"city":"Upper Southampton Township","no_of_bus":1}
+{"city":"TWN N CNTRY","no_of_bus":1}
+{"city":"Glenoldan","no_of_bus":1}
+{"city":"Tampa - North","no_of_bus":1}
+{"city":"Blvd","no_of_bus":1}
+{"city":"Concord Township","no_of_bus":1}
+{"city":"Oracle","no_of_bus":1}
+{"city":"Indian Rocks Beach. ","no_of_bus":1}
+{"city":"franklin","no_of_bus":1}
+{"city":"Bethel","no_of_bus":1}
+{"city":"Devon-Berwyn","no_of_bus":1}
+{"city":"maple shade nj","no_of_bus":1}
+{"city":"Thonosassa","no_of_bus":1}
+{"city":"Beech Grove,","no_of_bus":1}
+{"city":"erdenheim","no_of_bus":1}
+{"city":"Reno Nevada","no_of_bus":1}
+{"city":"Hilltop","no_of_bus":1}
+{"city":"Elk Township","no_of_bus":1}
+{"city":"AMBLER","no_of_bus":1}
+{"city":"Lansdale ","no_of_bus":1}
+{"city":"Palm Harbor, FL","no_of_bus":1}
+{"city":"Crosswicks","no_of_bus":1}
+{"city":"Echelon","no_of_bus":1}
+{"city":"NEWARK","no_of_bus":1}
+{"city":"South Roxana","no_of_bus":1}
+{"city":"VC Highlands","no_of_bus":1}
+{"city":"Cornwells Heights","no_of_bus":1}
+{"city":"CLEARWATER","no_of_bus":1}
+{"city":"Had Twp","no_of_bus":1}
+{"city":"largo","no_of_bus":1}
+{"city":"Westmont - Haddon Towsship","no_of_bus":1}
+{"city":"indianopolis","no_of_bus":1}
+{"city":"Zephryhills","no_of_bus":1}
+{"city":"Denver","no_of_bus":1}
+{"city":"Monroe","no_of_bus":1}
+{"city":"St.  Charles","no_of_bus":1}
+{"city":"Philiadelphia","no_of_bus":1}
+{"city":"Chattanooga","no_of_bus":1}
+{"city":"MacDill AFB","no_of_bus":1}
+{"city":"Newton","no_of_bus":1}
+{"city":"Middletown","no_of_bus":1}
+{"city":"Philadelphia PA","no_of_bus":1}
+{"city":"Town 'N' Country","no_of_bus":1}
+{"city":"S.Pasadena","no_of_bus":1}
+{"city":"Monchanin","no_of_bus":1}
+{"city":"HENDERSONVILLE","no_of_bus":1}
+{"city":"CHELTENHAM","no_of_bus":1}
+{"city":"Spark","no_of_bus":1}
+{"city":"PLYMOUTH MTNG","no_of_bus":1}
+{"city":"Wesley Chapel  FL","no_of_bus":1}
+{"city":"Saint Leo","no_of_bus":1}
+{"city":"Reno Sparks","no_of_bus":1}
+{"city":"Bennington","no_of_bus":1}
+{"city":"MERIDIAN","no_of_bus":1}
+{"city":"riverview","no_of_bus":1}
+{"city":"College Place","no_of_bus":1}
+{"city":"​Largo","no_of_bus":1}
+{"city":"LOWER PROVIDENCE","no_of_bus":1}
+{"city":"Ridley Township","no_of_bus":1}
+{"city":"land o lakes","no_of_bus":1}
+{"city":"Newtown Township","no_of_bus":1}
+{"city":"Santa Ynez","no_of_bus":1}
+{"city":"WEST CHESTER","no_of_bus":1}
+{"city":"Casa Adobes","no_of_bus":1}
+{"city":"clifton heights","no_of_bus":1}
+{"city":"Town n Country","no_of_bus":1}
+{"city":"St.louis","no_of_bus":1}
+{"city":"Bordentown Township","no_of_bus":1}
+{"city":"Edgmont","no_of_bus":1}
+{"city":"PINELLAS PARK","no_of_bus":1}
+{"city":"St. Petersberg","no_of_bus":1}
+{"city":"CLIFTON HEIGHTS","no_of_bus":1}
+{"city":"Madiera Beach","no_of_bus":1}
+{"city":"Washington","no_of_bus":1}
+{"city":"Telford ","no_of_bus":1}
+{"city":"Warminster ","no_of_bus":1}
+{"city":"Wilmington Manor","no_of_bus":1}
+{"city":"Lincoln","no_of_bus":1}
+{"city":"Wilimington","no_of_bus":1}
+{"city":"Haverford ","no_of_bus":1}
+{"city":"Twin oaks","no_of_bus":1}
+{"city":"Blackwood ","no_of_bus":1}
+{"city":"Gloucester","no_of_bus":1}
+{"city":"SAINT LOUIS","no_of_bus":1}
+{"city":"Cheltenham Township","no_of_bus":1}
+{"city":"Green Valle","no_of_bus":1}
+{"city":"St.Charles","no_of_bus":1}
+{"city":"West Norriton ","no_of_bus":1}
+{"city":"LANGHORNE","no_of_bus":1}
+{"city":"Plainfiled","no_of_bus":1}
+{"city":"DELRAN","no_of_bus":1}
+{"city":"DOWNINGTOWN","no_of_bus":1}
+{"city":"Mt  Juliet","no_of_bus":1}
+{"city":"Upper Southampton","no_of_bus":1}
+{"city":"Land o Lakes","no_of_bus":1}
+{"city":"Edgemoor","no_of_bus":1}
+{"city":"Greater Carrollwood","no_of_bus":1}
+{"city":"Willingboro Township","no_of_bus":1}
+{"city":"Largo (Walsingham)","no_of_bus":1}
+{"city":"Saint Louis ","no_of_bus":1}
+{"city":"Palm harbor ","no_of_bus":1}
+{"city":"North Maple Shade","no_of_bus":1}
+{"city":"Boulevard","no_of_bus":1}
+{"city":"Carney's Point","no_of_bus":1}
+{"city":"Delray Beach","no_of_bus":1}
+{"city":"Glenmore","no_of_bus":1}
+{"city":"Monrovia","no_of_bus":1}
+{"city":"Honey Brook","no_of_bus":1}
+{"city":"Aliso Viejo","no_of_bus":1}
+{"city":"Green Hills","no_of_bus":1}
+{"city":"Cynwyd","no_of_bus":1}
+{"city":"Saintt Petersburg","no_of_bus":1}
+{"city":"Bellville","no_of_bus":1}
+{"city":"Mandeville","no_of_bus":1}
+{"city":"metairie","no_of_bus":1}
+{"city":"Saint louis","no_of_bus":1}
+{"city":"Ashland","no_of_bus":1}
+{"city":"Hartsville","no_of_bus":1}
+{"city":"Gwynedd Valley","no_of_bus":1}
+{"city":"Inglewood","no_of_bus":1}
+{"city":"Southwest Tampa","no_of_bus":1}
+{"city":"Yardley Boro","no_of_bus":1}
+{"city":"West Hill","no_of_bus":1}
+{"city":"Rosewood Heights","no_of_bus":1}
+{"city":"Pine HIll","no_of_bus":1}
+{"city":"Boise (Meridian)","no_of_bus":1}
+{"city":"Ste C","no_of_bus":1}
+{"city":"Winslow","no_of_bus":1}
+{"city":"YARDLEY","no_of_bus":1}
+{"city":"abington","no_of_bus":1}
+{"city":"Maryville ","no_of_bus":1}
+{"city":"East Greenville","no_of_bus":1}
+{"city":"Woolwich Twp","no_of_bus":1}
+{"city":"santa Barbara","no_of_bus":1}
+{"city":"Bellair","no_of_bus":1}
+{"city":"Huntingdon Valley PA","no_of_bus":1}
+{"city":"Spring HIll","no_of_bus":1}
+{"city":"Secane ","no_of_bus":1}
+{"city":"View","no_of_bus":1}
+{"city":"St.Ann","no_of_bus":1}
+{"city":"Audubon ","no_of_bus":1}
+{"city":"Norriton","no_of_bus":1}
+{"city":"Delaware County","no_of_bus":1}
+{"city":"Temple Terr","no_of_bus":1}
+{"city":"Pass-a-Grille","no_of_bus":1}
+{"city":"Mulberry","no_of_bus":1}
+{"city":"Catalina Foothills","no_of_bus":1}
+{"city":"ST. Louis","no_of_bus":1}
+{"city":"Mt.Juliet","no_of_bus":1}
+{"city":"Hampton","no_of_bus":1}
+{"city":"Mt Ephraim","no_of_bus":1}
+{"city":"SEMINOLE","no_of_bus":1}
+{"city":"King of Prussi","no_of_bus":1}
+{"city":"Santa Clara","no_of_bus":1}
+{"city":"Virtual","no_of_bus":1}
+{"city":"kop","no_of_bus":1}
+{"city":"Mt. Airy","no_of_bus":1}
+{"city":"Eddington","no_of_bus":1}
+{"city":"Fox Street","no_of_bus":1}
+{"city":"Danboro","no_of_bus":1}
+{"city":"Gulph Mills","no_of_bus":1}
+{"city":"Downtown Indianapolis","no_of_bus":1}
+{"city":"Hillsborough","no_of_bus":1}
+{"city":"Mississauga","no_of_bus":1}
+{"city":"Brentwood - Cool Springs","no_of_bus":1}
+{"city":"Wayne/Radnor","no_of_bus":1}
+{"city":"ST. PETE BEACH","no_of_bus":1}
+{"city":"Crystal Beach","no_of_bus":1}
+{"city":"SPRINGHILL","no_of_bus":1}
+{"city":"Swedesboro ","no_of_bus":1}
+{"city":"Hollywood","no_of_bus":1}
+{"city":"East Norriton ","no_of_bus":1}
+{"city":"St. Louis County","no_of_bus":1}
+{"city":"RADNOR","no_of_bus":1}
+{"city":"East St Louis","no_of_bus":1}
+{"city":"Santa Maria","no_of_bus":1}
+{"city":"Waggaman","no_of_bus":1}
+{"city":"Hi-Nella","no_of_bus":1}
+{"city":"WILLOW GROVE","no_of_bus":1}
+{"city":"MANCHESTER","no_of_bus":1}
+{"city":"Hernando Bch","no_of_bus":1}
+{"city":"Pass-a-Grille Beach","no_of_bus":1}
+{"city":"Fallsington","no_of_bus":1}
+{"city":"kenner","no_of_bus":1}
+{"city":"Cold Springs","no_of_bus":1}
+{"city":"TEMPLE TERR","no_of_bus":1}
+{"city":"MARLTON","no_of_bus":1}
+{"city":"Foster Pond","no_of_bus":1}
+{"city":"Santa  Barbara","no_of_bus":1}
+{"city":"Tampa Palms","no_of_bus":1}
+{"city":"ST. PETERSBURG","no_of_bus":1}
+{"city":"Newtown Sq.","no_of_bus":1}
+{"city":"Tennesse","no_of_bus":1}
+{"city":"Wycombe","no_of_bus":1}
+{"city":"TRINITY","no_of_bus":1}
+{"city":"Tierre Verde","no_of_bus":1}
+{"city":"CONSHOHOCKEN","no_of_bus":1}
+{"city":"Philadelphia (Northeast Philly)","no_of_bus":1}
+{"city":"Landsale","no_of_bus":1}
+{"city":"Frederick","no_of_bus":1}
+{"city":"Costa Mesa","no_of_bus":1}
+{"city":"Cherry Hill Mall","no_of_bus":1}
+{"city":"Maran","no_of_bus":1}
+{"city":"Fort Saskatchewan","no_of_bus":1}
+{"city":"West Collingswood Heights","no_of_bus":1}
+{"city":"Tampa,Fl","no_of_bus":1}
+{"city":"South Madison","no_of_bus":1}
+{"city":"Stanton","no_of_bus":1}
+{"city":"N.Wales","no_of_bus":1}
+{"city":"AB Edmonton","no_of_bus":1}
+{"city":"Oro valley","no_of_bus":1}
+{"city":"Town and Country ","no_of_bus":1}
+{"city":"Winterthur","no_of_bus":1}
+{"city":"Hopewell Township","no_of_bus":1}
+{"city":"Dellwood","no_of_bus":1}
+{"city":"Brentwood ","no_of_bus":1}
+{"city":"Wesley Chapel ","no_of_bus":1}
+{"city":"CHESTER HEIGHTS","no_of_bus":1}
+{"city":"Berlin Boro","no_of_bus":1}
+{"city":"South Reno","no_of_bus":1}
+{"city":"Old Hickory, TN","no_of_bus":1}
+{"city":"Mc Cordsville","no_of_bus":1}
+{"city":"Fairland","no_of_bus":1}
+{"city":"Maryland Height, MO","no_of_bus":1}
+{"city":"Safety Harbor,","no_of_bus":1}
+{"city":"BOISE","no_of_bus":1}
+{"city":"wesley chapel","no_of_bus":1}
+{"city":"Ewing Twp","no_of_bus":1}
+{"city":"Indiana","no_of_bus":1}
+{"city":"Tampa ","no_of_bus":1}
+{"city":"gilbertsville","no_of_bus":1}
+{"city":"Delran Twp","no_of_bus":1}
+{"city":"McCarran","no_of_bus":1}
+{"city":"Evshm Twp","no_of_bus":1}
+{"city":"Scott Afb","no_of_bus":1}
+{"city":"Tampa - South","no_of_bus":1}
+{"city":"Algiers","no_of_bus":1}
+{"city":"Royersford ","no_of_bus":1}
+{"city":"Ofallon","no_of_bus":1}
+{"city":"Tylersport","no_of_bus":1}
+{"city":"Santa Barbara,","no_of_bus":1}
+{"city":"Chalemette","no_of_bus":1}
+{"city":"East Edmonton","no_of_bus":1}
+{"city":"​Clayton","no_of_bus":1}
+{"city":"Eagle,","no_of_bus":1}
+{"city":"Tampa Terrace","no_of_bus":1}
+{"city":"Moorestown-Lenola","no_of_bus":1}
+{"city":"West  Deptford","no_of_bus":1}
+{"city":"Tarpon springs","no_of_bus":1}
+{"city":"Shady Hills","no_of_bus":1}
+{"city":"Cherry Hil","no_of_bus":1}
+{"city":"ST LOUIS","no_of_bus":1}
+{"city":"Lake Saint Louis","no_of_bus":1}
+{"city":"North Marlton","no_of_bus":1}
+{"city":"Kalispell","no_of_bus":1}
+{"city":"Earlington","no_of_bus":1}
+{"city":"Downingtown,","no_of_bus":1}
+{"city":"MADISON","no_of_bus":1}
+{"city":"Claerwater","no_of_bus":1}
+{"city":"Washington Twp","no_of_bus":1}
+{"city":"Chicago","no_of_bus":1}
+{"city":"St louis","no_of_bus":1}
+{"city":"Land-O-Lakes","no_of_bus":1}
+{"city":"Woolwich Twp.","no_of_bus":1}
+{"city":"Oxnard","no_of_bus":1}
+{"city":"Cerritos","no_of_bus":1}
+{"city":"Riveridge","no_of_bus":1}
+{"city":"Downtown","no_of_bus":1}
+{"city":"Feastville","no_of_bus":1}
+{"city":"Saint Louis","no_of_bus":1}
+{"city":"Center City Philadelphia","no_of_bus":1}
+{"city":"Roseville","no_of_bus":1}
+{"city":"St.Pete Beach","no_of_bus":1}
+{"city":"Metairie ","no_of_bus":1}
+{"city":"Tampla","no_of_bus":1}
+{"city":"Buckingham Township","no_of_bus":1}
+{"city":"Festerville","no_of_bus":1}
+{"city":"Old Strathcona","no_of_bus":1}
+{"city":"Pedricktown","no_of_bus":1}
+{"city":"N Redngtn Bch","no_of_bus":1}
+{"city":"Goodletsville","no_of_bus":1}
+{"city":"DONELSON","no_of_bus":1}
+{"city":"Nolenville","no_of_bus":1}
+{"city":"GARDEN CITY","no_of_bus":1}
+{"city":"Redingtn Shores","no_of_bus":1}
+{"city":"Fieldsboro","no_of_bus":1}
+{"city":"Santa Barbara & Ventura Counties","no_of_bus":1}
+{"city":"Southhampton","no_of_bus":1}
+{"city":"Stead","no_of_bus":1}
+{"city":"Franklin ","no_of_bus":1}
+{"city":"South Lake Tahoe","no_of_bus":1}
+{"city":"Belleville ","no_of_bus":1}
+{"city":"wimauma","no_of_bus":1}
+{"city":"Feasterville-Trevose, PA","no_of_bus":1}
+{"city":"Lavergne","no_of_bus":1}
+{"city":"chicago","no_of_bus":1}
+{"city":"Deptford Twp","no_of_bus":1}
+{"city":"Southampton ","no_of_bus":1}
+{"city":"Picture Rocks","no_of_bus":1}
+{"city":"Oldmans Township","no_of_bus":1}
+{"city":"Sparks NV","no_of_bus":1}
+{"city":"O' Fallon","no_of_bus":1}
+{"city":"Shade","no_of_bus":1}
+{"city":"E. Norristown","no_of_bus":1}
+{"city":"Center Square","no_of_bus":1}
+{"city":"Whitehouse","no_of_bus":1}
+{"city":"Newton Square","no_of_bus":1}
+{"city":"Gradyville","no_of_bus":1}
+{"city":"Dunnellon","no_of_bus":1}
+{"city":"West Philadelphia","no_of_bus":1}
+{"city":"Landsdale","no_of_bus":1}
+{"city":"Bucktown","no_of_bus":1}
+{"city":"Edgemont","no_of_bus":1}
+{"city":"MEDIA","no_of_bus":1}
+{"city":"TRENTON","no_of_bus":1}
+{"city":"Afton","no_of_bus":1}
+{"city":"Cottage Hills","no_of_bus":1}
+{"city":"West Bradford Township","no_of_bus":1}
+{"city":"Austin","no_of_bus":1}
+{"city":"Southeastern","no_of_bus":1}
+{"city":"saint ann","no_of_bus":1}
+{"city":"elmwood","no_of_bus":1}
+{"city":"horsham","no_of_bus":1}
+{"city":"Lakeland","no_of_bus":1}
+{"city":"BRANDON","no_of_bus":1}
+{"city":"Bridgeton ","no_of_bus":1}
+{"city":"LITHIA","no_of_bus":1}
+{"city":"ClearWater","no_of_bus":1}
+{"city":"Belleair Blf","no_of_bus":1}
+{"city":"LOWER MERION","no_of_bus":1}
+{"city":"Arden","no_of_bus":1}
+{"city":"Bristol Twp","no_of_bus":1}
+{"city":"quakertown","no_of_bus":1}
+{"city":"Sherwood","no_of_bus":1}
+{"city":"Zionsville In","no_of_bus":1}
+{"city":"Pine Forge","no_of_bus":1}
+{"city":"North Coventry Township","no_of_bus":1}
+{"city":"Corona De Tucson","no_of_bus":1}
+{"city":"OFallon","no_of_bus":1}
+{"city":"Newportville","no_of_bus":1}
+{"city":"Santa Barbra","no_of_bus":1}
+{"city":"Land o' Lakes,","no_of_bus":1}
+{"city":"NORTH WALES","no_of_bus":1}
+{"city":"New Britian","no_of_bus":1}
+{"city":"Erdenheim Pa","no_of_bus":1}
+{"city":"wilmington","no_of_bus":1}
+{"city":"Mehville","no_of_bus":1}
+{"city":"New Pt Richey","no_of_bus":1}
+{"city":"Almonesson","no_of_bus":1}
+{"city":"Port Hueneme","no_of_bus":1}
+{"city":"Plymouth Township","no_of_bus":1}
+{"city":"lawrence","no_of_bus":1}
+{"city":"Charlack","no_of_bus":1}
+{"city":"Springhill","no_of_bus":1}
+{"city":"Central Tampa","no_of_bus":1}
+{"city":"Jefferson Parish","no_of_bus":1}
+{"city":"Pagedale","no_of_bus":1}
+{"city":"Fairless","no_of_bus":1}
+{"city":"W.Chester","no_of_bus":1}
+{"city":"saint petersburg","no_of_bus":1}
+{"city":"Pinecrest West Park","no_of_bus":1}
+{"city":"VALRICO","no_of_bus":1}
+{"city":"Hadden","no_of_bus":1}
+{"city":"W Cherry Hill","no_of_bus":1}
+{"city":"Stone Harbor","no_of_bus":1}
+{"city":"Nsshville","no_of_bus":1}
+{"city":"SANTA BARBARA","no_of_bus":1}
+{"city":"Bensalem. Pa","no_of_bus":1}
+{"city":"Lenni","no_of_bus":1}
+{"city":"Bellefontaine Neighbors","no_of_bus":1}
+{"city":"W. Berlin","no_of_bus":1}
+{"city":"Indianapolis,","no_of_bus":1}
+{"city":"Riverview Fl","no_of_bus":1}
+{"city":"Upper Pottsgrove","no_of_bus":1}
+{"city":"Westhampton","no_of_bus":1}
+{"city":"Haddon township","no_of_bus":1}
+{"city":"East Falls","no_of_bus":1}
+{"city":"Haverford,","no_of_bus":1}
+{"city":"Newcastle","no_of_bus":1}
+{"city":"Hi Nella","no_of_bus":1}
+{"city":"nashville","no_of_bus":1}
+{"city":"Bellefontaine","no_of_bus":1}
+{"city":"South Burlington","no_of_bus":1}
+{"city":"Indianapolis city (balance)","no_of_bus":1}
+{"city":"Wales","no_of_bus":1}
+{"city":"Mount Holly,","no_of_bus":1}
+{"city":"Woodbury Hts.","no_of_bus":1}
+{"city":"UPPER MORELAND","no_of_bus":1}
+{"city":"Apollo beach","no_of_bus":1}
