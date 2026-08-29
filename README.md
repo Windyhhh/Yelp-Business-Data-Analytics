@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⭐ Yelp-Business-Data-Analytics
+# Yelp 商户数据分析 | Yelp-Business-Data-Analytics
 
 ### Analytics over the Yelp business dataset.
 
