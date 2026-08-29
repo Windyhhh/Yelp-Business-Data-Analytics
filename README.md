@@ -59,6 +59,41 @@ Yelp-Business-Data-Analytics/
 
 ---
 
+## 技术实现细节
+
+### 架构概览
+
+项目采用模块化设计，核心目录包括：**server_data, src**。
+
+### 关键函数
+
+- `create_spark_session`, `attribute_score`, `analysis`, `data_process`
+
+### 技术栈与依赖
+
+**核心框架/库**：Spark
+
+**主要 import**：
+```python
+import os
+from pyspark import SparkConf
+from pyspark.sql import SparkSession
+import pyspark.sql.functions as f
+import sys
+import os
+from config import DATA_CONFIG, ANALYSIS_CONFIG, SPARK_CONFIG
+from pyspark import SparkConf
+from pyspark.sql import SparkSession
+import pyspark.sql.functions as f
+```
+
+### 实现要点
+
+- 通过 `create_spark_session` 等函数实现核心流程编排
+- 基于 Spark 构建，技术栈成熟稳定
+- 代码结构清晰，模块间低耦合，便于扩展和维护
+
+---
 ## License
 
 MIT — free to use, modify and distribute.
